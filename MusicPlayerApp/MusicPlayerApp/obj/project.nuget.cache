@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3PLjmuODe4w+6Ki7HX9chFXZGV/bsWz6rhnqoLrhniZm/eXgCmLmDS1RMzi5/1VGJ4CxMzxhJ6X9GBpauA1qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zubai\\source\\repos\\MusicPlayerApp\\MusicPlayerApp\\MusicPlayerApp\\MusicPlayerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zubai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\plugin.mediamanager\\0.9.0\\plugin.mediamanager.0.9.0.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\plugin.mediamanager.forms\\0.9.0\\plugin.mediamanager.forms.0.9.0.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512",
+    "C:\\Users\\zubai\\.nuget\\packages\\xamarin.forms.pancakeview\\1.3.7\\xamarin.forms.pancakeview.1.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

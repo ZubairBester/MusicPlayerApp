@@ -1,0 +1,15 @@
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\netstandard2.0\MusicPlayerApp.deps.json
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\netstandard2.0\MusicPlayerApp.dll
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\netstandard2.0\ref\MusicPlayerApp.dll
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\netstandard2.0\MusicPlayerApp.pdb
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.AssemblyInfoInputs.cache
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.AssemblyInfo.cs
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.dll
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\ref\MusicPlayerApp.dll
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.pdb
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\MusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\zubai\source\repos\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\netstandard2.0\PlayerPage.xaml.g.cs
